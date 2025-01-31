@@ -1,7 +1,3 @@
-
-<!--
-**mdcartel/mdcartel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 👋 Hello, I'm Mark! I'm a passionate developer with a keen interest in web development and cyber security. Over the years, I've honed my skills in various programming languages and frameworks, and I'm always eager to learn and take on new challenges.<br><br>🛠️ Skills & Technologies:<br><br>Languages: Python, JavaScript, HTML<br><br>Frameworks: React.js, Node.js<br><br>Tools: GitHub, Vercel<br><br>🌟 Highlights:<br><br>Projects: I've worked on a variety of projects, from developing secure web applications to implementing advanced cybersecurity measures. Check out my repositories for more details!<br>Collaborations: I'm an active collaborator and enjoy working with other developers on open-source projects. If you have an exciting project idea, let's connect!<br><br>📫 How to Reach Me: Feel free to connect with me on Twitter<mdcartel> or send me an email at <markdavid1311811@gmail.com>. I'm always open to discussions, collaborations, and new opportunities.
 

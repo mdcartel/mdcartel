@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 Hello, I'm Mark! I'm a passionate developer with a keen interest in web development and cyber security. Over the years, I've honed my skills in various programming languages and frameworks, and I'm always eager to learn and take on new challenges.<br><br>🛠️ Skills & Technologies:<br><br>Languages: Python, JavaScript, HTML<br><br>Frameworks: React.js, Node.js<br><br>Tools: GitHub, Vercel<br><br>🌟 Highlights:<br><br>Projects: I've worked on a variety of projects, from developing secure web applications to implementing advanced cybersecurity measures. Check out my repositories for more details!<br>Collaborations: I'm an active collaborator and enjoy working with other developers on open-source projects. If you have an exciting project idea, let's connect!<br><br>📫 How to Reach Me: Feel free to connect with me on Twitter<mdcartel> or send me an email at <markdavid1311811@gmail.com>. I'm always open to discussions, collaborations, and new opportunities.
-
+👋 Hello, I'm Mark! I'm a passionate developer with a keen interest in web development and cyber security.
+😊 I'm currently working on my own personal projects
+🤝 I'm an active collaborator and enjoy working with other developers on open-source projects.
+✋ I've honed my skills in various programming languages and frameworks.
+📖 I'm currently learning.
+💬 I'm always open to discussions, collaborations, and new opportunities. If you have an exciting project idea, let's connect!
+⚡ Fun fact - I am the best!!!...prove me wrong
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rKfFR89q) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_md.cartel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-d-62598a312) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ethiopianmark) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mdcartel) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/c3nchjunior) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdcartel) 
